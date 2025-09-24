@@ -1,4 +1,4 @@
-public class ejercicio1 {
+public class Ejercicio1 {
     public static void main(String[] args) {
         for (int inicial = 1; inicial < 100; inicial++) {
             if (inicial % 7 == 0) {
