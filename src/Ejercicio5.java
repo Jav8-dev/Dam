@@ -15,3 +15,4 @@ public class Ejercicio5 {
         System.out.println("Mira que eres tonto, to lo numero que puede pone y pone uno negativo, has introducido " + vari + " varis");
     }
 }
+
