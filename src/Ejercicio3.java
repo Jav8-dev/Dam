@@ -10,8 +10,12 @@ public class Ejercicio3 {
             var = escan.nextInt();
 
         }
-        for (int i = 1; i < 20 ; i++) {
-
+        for (int i = 1; i < var; i++) {
+            System.out.println("Pasame los numeros");
+            int num = escan.nextInt();
+            if (num % 2 == 0) ;
+            System.out.println("El numero " + num + " es par");
+            }
         }
     }
-}
+
