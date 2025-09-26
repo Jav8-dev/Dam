@@ -5,5 +5,6 @@ public class Sumas {
             numero += j++;
         }
         System.out.println("Los numero son " + numero);
+        System.out.println("Hola");
     }
 }
