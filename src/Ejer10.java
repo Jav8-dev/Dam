@@ -17,6 +17,6 @@ public class Ejer10 {
             factorial += i;
         }
 
-        System.out.println("Factorial ("+ num +") = " + factorial);
+        System.out.println("Factorial es " + factorial);
     }
 }
